@@ -4,10 +4,33 @@
 }
 
 body {
-    font-family: sans-serif;
-    font-size: 27px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    width: 1140px;
+    margin: auto;
 }
 
 img {
     width: 49%;
+}
+
+h1 {
+    color: red;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+    margin: 15px auto 40px;
+}
+
+table {
+    border: 1px solid #dd0000;
+    border-radius: 4px;
+    font-size: 12px;
+    width: 600px;
+    margin: auto;
+
+}
+
+table th {
+    text-align: left;
+    font-size: 2em;
 }
