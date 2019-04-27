@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+img {
+    padding-top: 1em;
+    width: 20%;
+}
+
+nav {
+    background-color: steelblue;
+    text-align: center;
+}
+
+nav a {
+    color: snow;
+    display: inline-block;
+    padding: 0.5em;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: firebrick;
+}
+
+ul {
+    height: auto;
+    margin-top: 0, 5em;
+    width: 60%;
+}
+
+article {;
+    margin-top: 0.5em;
+    padding: 1em;
+}
+
+aside {
+    width: 40%;
+
+}
+
