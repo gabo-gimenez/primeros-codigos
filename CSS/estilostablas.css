@@ -4,13 +4,24 @@
 }
 
 body {
-    font-family: 'ZCOOL KuaiLe', cursive;
+    font-family: 'Open Sans', sans-serif;
     width: 1140px;
     margin: auto;
 }
 
 img {
     width: 49%;
+}
+
+nav {
+    background-color: steelblue;
+    text-align: center;
+
+}
+
+.img-class {
+    width: 33%;
+
 }
 
 h1 {
@@ -34,3 +45,31 @@ table th {
     text-align: left;
     font-size: 2em;
 }
+
+nav a {
+    color: snow;
+    display: inline-block;
+    padding: 0.5em;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: firebrick;
+}
+
+footer {
+    background-color: steelblue;
+    bottom: 0;
+    float: left;
+    padding: 1em 0 1em 0;
+    position: fixed;
+    width: 100%;
+}
+
+footer p{
+    color: #FFFFFF;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+
