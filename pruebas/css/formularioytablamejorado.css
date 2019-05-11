@@ -96,3 +96,8 @@ img.img-class {
     width: 37%;
 }
 
+table label {
+    display: block;
+    background-color: red;
+}
+
