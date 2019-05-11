@@ -6,11 +6,11 @@ img {
 
 body {
     font-family: 'Roboto', sans-serif;;
-    margin: 4% 3% 3% 3%;
+    margin: 5% 5% 4% 5%;
     color: gold;
 }
 
-h1{
+h1 {
     font-family: Algerian;
 }
 
@@ -21,11 +21,20 @@ article {
     font-family: "Bell MT";
 }
 
+aside.aside-class {
+    text-align: center;
+   display: inline;
+    font-family: Forte;
+}
+
+h1.h1\.1-class {
+    font-family: Georgia;
+}
+
 table {
     font-size: 15px;
-    margin: 1em;
+    margin: 5px;
     text-align: left;
-    text-decoration;
 }
 
 input {
@@ -34,7 +43,6 @@ input {
 }
 
 h1 {
-    padding-top: auto;
     color: gold;
 }
 
@@ -61,5 +69,21 @@ h5 {
 
 b {
     text-decoration: gold;
+}
+
+h1.h1-class {
+    font-family: "Bodoni MT";
+    text-align: center;
+    color: #dd0000;
+}
+
+table.table-class {
+    font-size: 1.3em;
+    border: 2px solid goldenrod;;
+    margin: auto;
+}
+
+img.img-class {
+    margin: 4em;
 }
 
