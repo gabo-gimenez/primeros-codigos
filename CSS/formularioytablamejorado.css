@@ -23,7 +23,7 @@ article {
 
 aside.aside-class {
     text-align: center;
-   display: inline;
+    display: inline;
     font-family: Forte;
 }
 
@@ -77,13 +77,22 @@ h1.h1-class {
     color: #dd0000;
 }
 
+body.body-class {
+    margin: 10px 400px 10px 400px;
+}
+
+aside.aside1-class {
+    font-family: Roboto;
+    text-align: left;
+}
+
 table.table-class {
     font-size: 1.3em;
-    border: 2px solid goldenrod;;
+    border: 2.5px solid red;;
     margin: auto;
 }
 
 img.img-class {
-    margin: 4em;
+    width: 37%;
 }
 
